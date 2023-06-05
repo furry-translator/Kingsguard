@@ -4,49 +4,49 @@
 translate chinese nameC_54f5067e:
 
     # "[you] ler Yasan, first of his name . . ."
-    "[你] 勒·亚桑，第一任国王……"
+    "[you] 勒尔·亚桑，初名之人……"
 
 # game/Chapter01.rpy:250
 translate chinese nameA_ebf8cabb:
 
     # "Your eyes slowly cracked open due to all the rambunctious cheering. A cacophony of clapping, stomping feet, and shouts of both joy and anger rumbled through your entire body."
-    "你的眼睛因为一片喧闹的欢呼声而慢慢睁开。掌声、跺脚声和喜悦或愤怒的喊叫声交织在一起，震荡着你整个身体。"
+    "你的眼睛缓缓睁开，被那阵阵喧闹的欢呼声所唤醒。掌声、跺脚声以及喜悦和愤怒的喊叫声交织在一起，如同一股混乱的浪潮涌入你的身体"
 
 # game/Chapter01.rpy:251
 translate chinese nameA_e700e91a:
 
     # "It should have been impossible to get any rest with all the noise, but you somehow managed to fall asleep regardless."
-    "尽管周围嘈杂的声音本应让你难以入眠，但你还是设法入睡了，这实在有些难以置信。"
+    "周围的嘈杂声本应让人难以入眠，然而你不知何故还是睡着了。"
 
 # game/Chapter01.rpy:252
 translate chinese nameA_c4fb4a7b:
 
     # "Perhaps it wasn't so incredulous to believe though."
-    "也许，这并不是那么难以相信的事情。"
+    "也许这并不是那么难以置信。"
 
 # game/Chapter01.rpy:253
 translate chinese nameA_5e4fb65b:
 
     # "The past few weeks had left you exhausted with all the preparations for the upcoming coronation, the kingdom's most important and revered event in over a decade."
-    "过去的几周里，你为即将到来的加冕典礼做了大量的准备工作。这是王国十年来最重要、最受尊敬的盛事，让你疲惫不堪。"
+    "过去几周的准备工作让你筋疲力尽，那该死的即将到来的加冕典礼，这是王国十年来最重要、备受尊崇的盛事。"
 
 # game/Chapter01.rpy:255
 translate chinese nameA_410f2d24:
 
     # "Even the most expensive and luxurious bed couldn't keep you from tossing and turning in the middle of the night."
-    "即使在最昂贵、最奢华的床上，也无法阻止你在夜晚辗转反侧。"
+    "即使是最昂贵、豪华的床也无法阻止你在深夜辗转反侧。"
 
 # game/Chapter01.rpy:256
 translate chinese nameA_5e6baa29:
 
     # "You stifled a yawn and brought up an arm to shield your eyes from the bright sun and found your arms baked to a golden hue."
-    "你忍住了一个打哈欠，举起一只胳膊遮住明亮的阳光，却发现你的胳膊被晒成了金黄色。"
+    "你忍住打一个哈欠，举起一只手臂遮挡着耀眼的阳光，却发现你的手臂被烘烤成了一抹金黄色。"
 
 # game/Chapter01.rpy:257
 translate chinese nameA_edeb1fd4:
 
     # "An arena attendee next to you shouted especially loudly into your ear."
-    "一位坐在你旁边的观众向你的耳朵尤其大声地喊叫。"
+    "旁边的一位竞技场观众特别大声地对着你的耳朵喊叫。"
 
 # game/Chapter01.rpy:261
 translate chinese nameA_c0bcd1f2:
@@ -58,7 +58,7 @@ translate chinese nameA_c0bcd1f2:
 translate chinese nameA_c70f5771:
 
     # extend "{size=+5}Get'em!!!" with sshake
-    extend "{size=+5} 打倒他们！" with sshake
+    #extend "{size=+5} 打倒他们!" with sshake
 
 # game/Chapter01.rpy:263
 translate chinese nameA_ee6211c0:
@@ -70,31 +70,31 @@ translate chinese nameA_ee6211c0:
 translate chinese nameA_b61bd00f:
 
     # "The man elbowed you roughly, further stirring you from your dream-like haze."
-    "那个人粗鲁地用肘部撞了你一下，让你更加清醒，摆脱了梦境般的迷糊状态。"
+    "那个人粗暴地用手肘撞击了你，更让你从梦幻般的迷糊中清醒过来。"
 
 # game/Chapter01.rpy:265
 translate chinese nameA_2bf41251:
 
     # "Rubbing your tired eyes, you squinted down from atop the stands of the arena at the fighting below."
-    "揉着疲惫的双眼，你从竞技场看台上向下凝视着下面的战斗。"
+    "你揉着疲倦的双眼，从竞技场看台的顶端眯起眼睛，望着下方的搏斗场面。"
 
 # game/Chapter01.rpy:266
 translate chinese nameA_aac3e0ad:
 
     # "In the midst of your midday dream, you seemed to have missed the most important part of the fight."
-    "在你午间的梦境中，你似乎错过了比赛最重要的部分。"
+    "在午后的梦境中，你似乎错过了战斗中最重要的部分。"
 
 # game/Chapter01.rpy:267
 translate chinese nameA_64359254:
 
     # "Several bruised gladiators covered in blood, spit, and dirt were being hauled off the grounds, moaning in pain as they retreated."
-    "几个淤伤、满身血污和泥土的角斗士正在被拖离现场，他们疼痛地呻吟着后退。"
+    "几名身上满是伤痕、血迹和污垢的角斗士被拖离竞技场，他们在被拖离时痛苦地呻吟着。"
 
 # game/Chapter01.rpy:269
 translate chinese nameA_930696b1:
 
     # npca "They'll be talkin' about that for weeks ha ha!"
-    npca "他们会谈论那件事好几个星期的，哈哈！"
+    npca "他们一定会博有兴致地讨论几个星期，哈哈！"
 
 # game/Chapter01.rpy:270
 translate chinese nameA_7c1180d0:
@@ -112,91 +112,91 @@ translate chinese nameA_1acd472d:
 translate chinese nameA_7bfe883c:
 
     # you "Let's just say I haven't been having the best of nights lately."
-    you "我就说我最近的夜晚并不是很好。"
+    you "我们可以这样说，最近我的夜晚(睡眠)并不太好。"
 
 # game/Chapter01.rpy:273
 translate chinese nameA_629af3db:
 
     # npca "Ah, bad hangover from a good drink, or did a woman keep ya up all night?"
-    npca "啊，是因为喝了太多的好酒而导致宿醉，还是因为女人让你整夜难眠？"
+    npca "啊，是因为过度饮酒而导致宿醉，还是有位女士让你整夜难以入眠？"
 
 # game/Chapter01.rpy:274
 translate chinese nameA_1cd9c03e:
 
     # you "I wish it was something as pleasant as that."
-    you "我希望事情是像那样令人愉快的。"
+    you "我希望是像那样愉快的事情。"
 
 # game/Chapter01.rpy:275
 translate chinese nameA_06f10e34:
 
     # "You didn't have the courage to tell the man that you were actually so tired from sneaking out of home so early in the morning, before even the birds started chirping to the light of the sun."
-    "你没有勇气告诉那个人，你实际上因为早上在鸟儿开始鸣叫到阳光照耀之前就悄悄地离开家，所以感到非常疲惫。"
+    "你没有勇气告诉那个人实际上你是在早上在鸟儿开始在阳光下唧唧喳喳之前就悄悄离开家。"
 
 # game/Chapter01.rpy:277
 translate chinese nameA_db729aaf:
 
     # "And it wasn't because your father had a strict curfew or anything for you."
-    "这并不是因为你父亲对你有严格的宵禁规定或其他什么。"
+    "并且这并不是因为你的父亲对你有严格的宵禁规定或其他什么原因。"
 
 # game/Chapter01.rpy:278
 translate chinese nameA_6f6ae84d:
 
     # "Well he did, but anyone would forbid their only son—and a prince at that—from leaving home and wandering the dangerous city streets without a bodyguard."
-    "他确实这样做了，但任何一个人都会禁止他们唯一的儿子，尤其是一个王子，没有护卫就离开家，漫游危险的城市街道。"
+    "嗯，他确实有这个规定，但是任何一个人都会禁止他们的独生子——尤其是王子——在没有保镖的情况下离家并在危险的城市街道上徘徊。"
 
 # game/Chapter01.rpy:279
 translate chinese nameA_a9769f37:
 
     # npca "Well, try not ta miss anything else or you'll be regrettin' it for the rest of your life!"
-    npca "好吧，不要再错过任何事情，否则你会为此后悔一辈子的！"
+    npca "好吧，尽量不要再错过任何事情，否则你会在余生中为此而后悔！"
 
 # game/Chapter01.rpy:281
 translate chinese nameA_f748dfe0:
 
     # "You nodded and took his advice to heart. There was plenty of time to rest when you were dead, and besides, you needed to stay awake for reasons other than on the fight below."
-    "你点点头，认真听取了他的建议。当你死了的时候，就有足够的时间休息了，而且，除了比赛之外，你还需要保持警觉。"
+    "你点了点头，将他的建议牢记在心。死后升天还有足够的时间休息，而且除了下方的战斗之外，你还有其他原因需要保持清醒。"
 
 # game/Chapter01.rpy:283
 translate chinese nameA_3530c242:
 
     # "At the other end of the coliseum you noticed a group of knights enter and spread out, getting in the way of many spectators."
-    "在竞技场的另一端，你注意到一群骑士进来，并散开了，挡住了很多观众的视线。"
+    "在角斗场的另一端，你注意到一群骑士进入并四散开来，挡住了许多观众的视线。"
 
 # game/Chapter01.rpy:284
 translate chinese nameA_b1257bf7:
 
     # "They were clearly searching for someone as they roamed around removing the hoods from everyone and eyeing their faces closely."
-    "他们显然在寻找某个人，四处走动，从每个人身上取下兜帽，仔细地观察他们的面孔。"
+    "显然，他们正在寻找某个人，他们四处游走，摘下每个人的兜帽，并仔细地观察他们的脸庞。"
 
 # game/Chapter01.rpy:286
 translate chinese nameA_26f317c4:
 
     # you "*Tch* Father certainly is persistent isn't he?"
-    you "*嘁* 父亲确实很执着，不是吗？"
+    you "*嘁* 父亲确实很坚持不懈，不是吗？"
 
 # game/Chapter01.rpy:287
 translate chinese nameA_43ee9d03:
 
     # "Though you were concerned, it would take them ages to search everyone in the crowd, especially when anything exciting happened below and everyone stood up in cheers."
-    "尽管你感到担忧，但要搜索每个人会花费他们很长时间，特别是当下面发生什么令人兴奋的事情时，每个人都站起来欢呼。"
+    "尽管你感到担忧，但要搜查人群中的每个人将需要很长时间，特别是当下方发生令人兴奋的事情时，所有人都站起来欢呼。"
 
 # game/Chapter01.rpy:288
 translate chinese nameA_d5eb7d85:
 
     # "You brought your cloak up and covered your face while keeping a watchful eye on the knights. Getting up and leaving would only make you look more suspicious and attract their attention."
-    "你把斗篷拉起来，遮住了脸，同时警惕地注视着骑士们。起身离开只会让你显得更可疑，引起他们的注意。"
+    "你把斗篷拉起，遮住了脸，同时警觉地盯着那些骑士。现在起身离开只会让你显得更可疑，引起他们的注意。"
 
 # game/Chapter01.rpy:290
 translate chinese nameA_90584f0d:
 
     # "And besides, there were likely tens of, no, maybe even so far as a hundred guards swarming the streets of the city searching for you all at your father's behest."
-    "而且，可能有数十个，不，甚至可能有上百个警卫在城市的街道上搜寻你，按照你父亲的命令。"
+    "而且，很可能有数十甚至上百名卫兵在城市的街道上搜寻你，全都是按照你父亲的命令行事。"
 
 # game/Chapter01.rpy:291
 translate chinese nameA_223e11a5:
 
     # "Once they got close enough you would take off, but for now you just wanted to savor the freedom you had enjoy the fights."
-    "一旦他们靠近，你就会离开，但现在你只想品味你拥有的自由并享受比赛。"
+    "一旦他们靠的足够近，你就会离开，但现在你只想享受自由，并且尽情地欣赏这场比赛。"
 
 # game/Chapter01.rpy:293
 translate chinese nameA_a748a71f:
@@ -220,187 +220,187 @@ translate chinese nameA_8b659bc8:
 translate chinese nameA_6d8652a2:
 
     # "Despite the inspection, you still lost inhibitions and became swept up in the excitement with the crowd."
-    "尽管受到检查，但你仍然放下了抑制，和观众一起沉浸在兴奋的氛围中。"
+    "尽管附近有检查，你仍然失去了顾虑，和人群一起被激动的氛围所席卷。"
 
 # game/Chapter01.rpy:298
 translate chinese nameA_c238224a:
 
     # "The fight was quickly over and the losing gladiators were dragged off the floor of the arena while the winners rose their hands in the air to the cheering and booing crowd."
-    "比赛很快就结束了，失败的角斗士被拖出了竞技场的地面，而获胜者则高举双手，面对欢呼和嘘声的观众。"
+    "战斗很快结束，失败的角斗士被拖离竞技场的赛场，而获胜者则高举双手，面对欢呼和嘘声的观众。"
 
 # game/Chapter01.rpy:299
 translate chinese nameA_88ab590d:
 
     # "The announcer stepped up to his podium and drew in a deep breath to speak out of his bullhorn."
-    "主持人走到他的讲台前，深吸了一口气，准备用扩音器说话。"
+    "播音员走上讲台，深吸一口气，然后用扩音器说话。"
 
 # game/Chapter01.rpy:303
 translate chinese nameA_9b92e3e8:
 
     # npcb "Wonderful! Such an absolutely wonderful performance from our gladiators and there is so much more to come!"
-    npcb "太棒了！我们的角斗士表现得真是太精彩了，而且还有更多的精彩表演等着大家！"
+    npcb "精彩！我们的角斗士表现得非常出色，还有更多精彩的比赛即将上演！"
 
 # game/Chapter01.rpy:304
 translate chinese nameA_05ca75e4:
 
     # npcb "I need not remind those that have won this match that glory and gold go to those that make it to the end of this arduous competition!"
-    npcb "我不需要提醒那些赢得比赛的人，荣耀和金钱归属于那些能够坚持到这项艰苦比赛的最后！"
+    npcb "我不需要提醒那些赢得这场比赛的人，荣耀和财富将属于那些能够坚持到这场艰苦比赛的人！"
 
 # game/Chapter01.rpy:305
 translate chinese nameA_7cf91e51:
 
     # npcb "Let us take a moment to offer our prayers once again to the god and goddess for their blessings . . ."
-    npcb "让我们再次向神和女神祈求祝福，静心一会儿……"
+    npcb "让我们再次向神祇祈祷，以寻求他们的祝福……"
 
 # game/Chapter01.rpy:307
 translate chinese nameA_042d6077:
 
     # "The man's voice boomed through the stadium, quieting down the crowd but you could tell that the people were getting antsy."
-    "主持人的声音在竞技场里响彻，让观众们安静了下来，但你可以感觉到人们正在变得不耐烦。"
+    "那个男人的声音在体育场中回荡，安静了下来，但你可以感觉到人们变得不耐烦了。"
 
 # game/Chapter01.rpy:308
 translate chinese nameA_34d0190a:
 
     # "They wanted more action. They wanted more violence. They came here for entertainment. And they didn't want it to stop."
-    "他们想要更多的刺激，更多的暴力，他们来这里是为了娱乐，而且他们不想停下来。"
+    "他们渴望更多的动作，更多的暴力。他们来这里是为了娱乐，他们不想让它停下来。"
 
 # game/Chapter01.rpy:309
 translate chinese nameA_cfa3f0b0:
 
     # "The announcer was quick to catch on though and kept his prayers short to move right back into the event."
-    "然而，主持人很快就意识到这一点，简短地结束了祈祷，立即重新开始活动。"
+    "然而，播音员迅速意识到了这一点，他简短地结束了祈祷，立刻回到比赛中。"
 
 # game/Chapter01.rpy:311
 translate chinese nameA_d80ddbfe:
 
     # npcb "Now then, let us announce our next fighters!"
-    npcb "好了，让我们宣布接下来的选手吧！"
+    npcb "那么，让我们宣布接下来的战斗者吧！"
 
 # game/Chapter01.rpy:312
 translate chinese nameA_a1989f2f:
 
     # npcb "Hailing from the town of Llyne is Arborn the Slick!"
-    npcb "来自林恩镇的是灵巧的阿伯恩！"
+    npcb "来自林恩镇的是灵巧的阿博恩！"
 
 # game/Chapter01.rpy:314
 translate chinese nameA_fb1a6a66:
 
     # "A lithe man in leather armor stepped forth with pride, twirling a short sword in each hand with deft grace."
-    "一个身穿皮甲的敏捷男子傲然走上前去，他双手轻松地旋转着一把短剑，展现着熟练的技巧和优美的风姿。"
+    "一个身穿皮甲的灵活男子自豪地走了出来，他灵巧地双手旋转着两把短剑，展现出熟练而优雅的风姿。"
 
 # game/Chapter01.rpy:315
 translate chinese nameA_006b3783:
 
     # "Despite his small stature, he was hard to miss due to the colorful cloth wrapped around his torso."
-    "尽管他个子不高，但由于他身上缠着五颜六色的布条，很难被人忽视。"
+    "尽管他个子不高，但他身上缠绕着色彩斑斓的布料，使他很难被忽视。"
 
 # game/Chapter01.rpy:316
 translate chinese nameA_f9936bb8:
 
     # npcb "He may be five-foot-two and thin as a razor but don't let his size fool you! {w=0.5}He's quick on his feet and has been the folly of many confident fighters."
-    npcb "他可能只有五英尺两寸高，身材瘦削如剃刀，但不要被他的体型所欺骗！{w=0.5}他脚步敏捷，曾经让许多自信的战士犯下错误。"
+    npcb "他可能只有五英尺二寸高，瘦得像把刀片，但不要被他的身材欺骗了！{w=0.5} 他步履敏捷，曾经让许多自信的战士闹了个糊涂。"
 
 # game/Chapter01.rpy:317
 translate chinese nameA_5f1c4d6d:
 
     # npcb "But how will he fare against our other competitors!?"
-    npcb "但是他将如何应对我们的其他竞争对手呢？"
+    npcb "然而，他将如何与其他竞争者相比呢？"
 
 # game/Chapter01.rpy:318
 translate chinese nameA_030a2636:
 
     # "The crowd turned towards the rising of the metal gate as another man walked onto the field from the opposite end of the stadium."
-    "金属大门缓缓升起，观众们的目光也随之转向，只见另一名男子从竞技场的另一端走上比赛场地。"
+    "人群转向另一边，金属门缓缓升起，另一个男子从体育场的一端走上了比赛场地。"
 
 # game/Chapter01.rpy:319
 translate chinese nameA_44c37a89:
 
     # "He was covered from head to toe in full metal armor, polished so brighty that the sun bounced off it from all angles nearly blinding you."
-    "他浑身穿着一套厚重的全身金属盔甲，抛光得非常亮，阳光从四面八方反射出来几乎让你眼花缭乱。"
+    "他浑身穿着全副金属盔甲，抛光得如此明亮，阳光从各个角度反射出来，几乎让你眼花缭乱。"
 
 # game/Chapter01.rpy:320
 translate chinese nameA_77ada418:
 
     # npcb "Yes, we have a treat for you today folks! Following in the footsteps of his father he holds skills unparalleled in the kingdom and aims to become head of the house one day!"
-    npcb "没错，今天我们为大家带来了一个特别的惊喜！他继承了父亲的才华，在整个王国中无人能及，他的目标是有朝一日成为家族的领袖！"
+    npcb "是的，今天我们为大家准备了一份惊喜！他追随父亲的脚步，拥有在王国中无与伦比的技能，他的目标是成为家族的领袖！"
 
 # game/Chapter01.rpy:322
 translate chinese nameA_aade58e6:
 
     # npcb "It's the illustrious noble knight of House Praine, Magnes the White!"
-    npcb "这位荣耀的贵族骑士是普莱恩家族的杰出代表，他就是白衣魔导士马格尼斯！"
+    npcb "他就是家族普兰恩的卓越贵族骑士，白衣骑士马格努斯！"
 
 # game/Chapter01.rpy:323
 translate chinese nameA_212270aa:
 
     # "The knight strutted forward with confidence and dignity befit one of nobility. He waved towards a cluster of women in the crowd and they screamed his name."
-    "骑士自信而庄重地向前迈着步伐，身上散发出高贵的气质。他向观众席中的一群女人挥手，她们尖叫着喊出了他的名字。"
+    "骑士自信而庄重地走上前去，他的举手向人群中的一群女性挥动，她们尖叫着呼喊他的名字。"
 
 # game/Chapter01.rpy:324
 translate chinese nameA_73da23e5:
 
     # npcb "Will this be another badge of honor on his numerous and growing list of achievements?"
-    npcb "这是否会成为他众多并不断增长的成就清单上的又一项荣誉勋章呢？"
+    npcb "这会成为他众多且不断增长的成就清单上的又一个荣誉徽章吗？"
 
 # game/Chapter01.rpy:331
 translate chinese nameA_2867944b:
 
     # "Your eyes quickly darted between the two fighters, but became distracted when you spotted one last combatant entering the ring from an entrance in the arena right below you."
-    "你的目光迅速在两个战斗者之间扫视，但当你看到最后一个战斗者从你下方的竞技场入口进入比赛场地时，你的注意力被分散了。"
+    "你的目光迅速在这两个战士之间穿梭，但当你看到最后一个战士从你正下方的入口进入擂台时，你的目光被分散了。"
 
 # game/Chapter01.rpy:332
 translate chinese nameA_22596ea3:
 
     # "All you saw was his gray, broad, rampart of a back, covered in muscles and littered with scars."
-    "你所看到的只是他那宽阔、坚固的背部，呈灰色，布满肌肉，还有许多伤疤。"
+    "你只看到他灰色的、宽大的、像壁垒一样的背部，覆盖着肌肉，布满了伤疤。"
 
 # game/Chapter01.rpy:333
 translate chinese nameA_714cac68:
 
     # "Thick brown hair bounced with his heavy gait and he stopped by the two with a menacing cross armed pose."
-    "他浓密的棕色头发随着他沉重的步伐弹跳着，他用一种威胁性的交叉手臂的姿势停在了那两个人的身旁。"
+    "他浓密的棕色头发随着他沉重的步伐而跳动，他以一种威胁的双臂交叉的姿势站在这两人身旁。"
 
 # game/Chapter01.rpy:334
 translate chinese nameA_a5975e55:
 
     # "He wore leather armor that did little more than lightly cover his body, showing off his impressive stature and rippling muscles."
-    "他穿着一件皮甲，只轻轻地覆盖了他的身体，展示了他令人印象深刻的身材和肌肉。"
+    "他穿着轻薄的皮甲，只轻轻地覆盖了身体，展现出他令人印象深刻的身材和肌肉的波动。"
 
 # game/Chapter01.rpy:335
 translate chinese nameA_1c5e3535:
 
     # "If he was trying to be intimidating, it was clearly working by the way the two other fighters took a half step back, though if he were to take but one hit he'd be out."
-    "如果他试图威吓对手，那显然取得了效果。其他两位战士后退了半步，但如果他受到一击，他就会被淘汰。"
+    "如果他试图恐吓对手，显然他做得很成功，因为其他两名战士向后退了半步，尽管如果他被击中一次，就会被淘汰出局。"
 
 # game/Chapter01.rpy:336
 translate chinese nameA_e0970cdd:
 
     # "Still, you knew exactly how this fight would turn out. You had seen it so many times before."
-    "不过，您很清楚这场比赛会如何结束。因为你之前已经看过很多次了。"
+    "然而，你清楚地知道这场比赛将会如何结束。你以前已经看过这么多次了。"
 
 # game/Chapter01.rpy:337
 translate chinese nameA_369c3d22:
 
     # "In fact, he was one of the reasons you wanted to sneak out of the castle in the first place. His fight was one you didn't want to miss."
-    "实际上，他是你想要从城堡里偷偷溜出去的原因之一。他的比赛是你不想错过的。"
+    "事实上，他正是你第一次想要从城堡里偷偷溜出来的原因之一。他的战斗是你不想错过的。"
 
 # game/Chapter01.rpy:339
 translate chinese nameA_60525208:
 
     # npcb "And last but not least, we have our final contestant."
-    npcb "最后但同样重要的是，我们有我们的最后一位参赛者。"
+    npcb "最后但同样重要的是，我们的最后一位参赛选手。"
 
 # game/Chapter01.rpy:340
 translate chinese nameA_07ba7cef:
 
     # npcb "He comes all the way from Farhoron, a hulking brute of a beastman who has seen many battles here in the coliseum."
-    npcb "他来自法洛隆（Farhoron），是一位体格庞大的兽人。他在角斗场上经历了许多战役。"
+    npcb "他来自法罗隆，一个身材高大的兽人，他在这个角斗场上经历了许多战斗。"
 
 # game/Chapter01.rpy:341
 translate chinese nameA_133dfb23:
 
     # npcb "Can you feel the ground rumble as he walks!? {w=0.5}The weight in the air as he stares you in the eye!?"
-    npcb "你能感受到他走路时地面的震动吗？{w=0.5}当他直视你的眼睛时，你能感受到空气中的压力吗？"
+    npcb "你能感受到他行走时地面的震动吗？{w=0.5} 当他凝视着你的眼睛时，空气中的压力是否增加了？"
 
 # game/Chapter01.rpy:342
 translate chinese nameA_bb6dc245:
@@ -412,7 +412,7 @@ translate chinese nameA_bb6dc245:
 translate chinese nameA_c00dc265:
 
     # extend "{cps=40}{size=+5}RRRRAAAAMMMMOOOOSSSS!" with sshake
-    extend "" with sshake
+    #extend "" with sshake
 
 # game/Chapter01.rpy:344
 translate chinese nameA_f97cbc29:
@@ -424,103 +424,103 @@ translate chinese nameA_f97cbc29:
 translate chinese nameA_e9f0461c:
 
     # "The rhino stamped his foot on the ground, raised his hands into the air, and belted out a guttural roar that was just as loud as the crowd." with lshake
-    "犀牛跺着脚，举起双手，发出一声喉咙咆哮，与人群发出的欢呼声一样响亮。" with lshake
+    "犀牛重重地踩踏着地面，将双手举向空中，发出了一声震耳欲聋般的咆哮。" with lshake
 
 # game/Chapter01.rpy:351
 translate chinese nameA_15cf1333:
 
     # "The crowd went wild, raising their voices and cheering even more than when they cheered for the other two combatants combined."
-    "人群狂热地欢呼起来，高声喊叫，甚至比为其他两名战斗者加油时还要更加热烈。"
+    "人群疯狂了起来，他们提高嗓门，比起为其他两个战士加油时更加热烈欢呼。"
 
 # game/Chapter01.rpy:352
 translate chinese nameA_a12f1cbf:
 
     # "A man started around the stands, taking money for bets on who would win the fight."
-    "一名男子在看台周围走动，收取赌注以押注谁会赢得这场斗争。"
+    "有个人在看台周围转悠，接受对谁会赢得比赛的赌注。"
 
 # game/Chapter01.rpy:353
 translate chinese nameA_a236aa6d:
 
     # "While you would have liked to join in, the fact that the knights were still roaming around meant that you had to remain as quiet and innocuous as possible."
-    "虽然你很想加入他们，但是骑士们仍在四处巡逻，这意味着你必须尽可能保持安静和低调。"
+    "虽然你也想参与其中，但骑士们仍在四处巡逻，这意味着你必须尽可能保持安静和低调。"
 
 # game/Chapter01.rpy:354
 translate chinese nameA_9cb3a5ab:
 
     # "And besides there was no need to."
-    "而且，也没有必要这么做。"
+    "而且，实际上也没有必要参与其中。"
 
 # game/Chapter01.rpy:355
 translate chinese nameA_84898833:
 
     # "Being a prince meant that money was never an issue for you, so the heart pounding risk, the whole allure of being on the edge of winning or losing it all, just wasn't there."
-    "身为王子，钱财对你来说从来不是问题，因此那种令人心跳加速的风险感，那种悬崖勒马的感觉，对于你来说并没有存在的吸引力。"
+    "作为王子，金钱对你来说从来不是问题，所以那种令人心跳加速的风险，以及在胜败之间挣扎的吸引力，对你来说并不存在。"
 
 # game/Chapter01.rpy:362
 translate chinese nameA_49a95570:
 
     # npcc "What is this!? {w=0.5}Who is this beast and why is he here!?"
-    npcc "这是什么!?{w=0.5} 这是什么野兽？它为什么在这里！？"
+    npcc "这是什么!?{w=0.5} 这个野兽是谁，他为什么在这里！？"
 
 # game/Chapter01.rpy:363
 translate chinese nameA_310849fc:
 
     # "The shimmering noble knight lifted his face guard to speak to the announcer. His voice was shaky, unbefit someone who called themselves a knight and he seemed to have lost all his confidence."
-    "那位闪耀高贵的骑士抬起他的面甲，向主持人开口说话。他的声音颤抖不已，不太适合一个自称骑士的人，他似乎失去了所有的自信。"
+    "那位闪耀的贵族骑士抬起面具，与播音员交谈。他的声音颤抖，不像一个自称骑士的人，他似乎失去了所有的自信。"
 
 # game/Chapter01.rpy:365
 translate chinese nameA_4399c80a:
 
     # npcc "I demand an answer! {w=0.5}I was told this was the last match and was to be a one-on-one fight of grace and honor!"
-    npcc "我要求一个答案！{w=0.5}我被告知这是最后一场比赛，应该是一场充满优雅和荣誉的一对一的战斗！"
+    npcc "我要求得到答案！{w=0.5}我被告知这是最后一场比赛，应该是一场充满优雅和荣誉的一对一战斗！"
 
 # game/Chapter01.rpy:366
 translate chinese nameA_2f3ecd58:
 
     # npcb "Is that what you were told?"
-    npcb "这就是你被告知的吗？"
+    npcb "那是你听到的吗？"
 
 # game/Chapter01.rpy:367
 translate chinese nameA_c2c241a2:
 
     # npcc "Yes! {w=0.5}I demand to speak to the organizer and ask that this match be changed!"
-    npcc "没错！{w=0.5}我要求与组织者交谈，并要求更改这场比赛！"
+    npcc "没错！{w=0.5}我要求与组织者交谈，请求更改这场比赛！"
 
 # game/Chapter01.rpy:368
 translate chinese nameA_a217d7d8:
 
     # npcb "I'm afraid that will not do. {w=0.5} This match has already begun and you have taken to the battlefield!"
-    npcb "恐怕那样是不行的。 {w=0.5} 这场比赛已经开始了，而你已经进入了战场！"
+    npcb "恐怕这样是不行的。 {w=0.5} 这场比赛已经开始了，而且你已经进入了战场！"
 
 # game/Chapter01.rpy:369
 translate chinese nameA_99a3d3f7:
 
     # npcb "Think of this as an opportunity to gain both greatness and prestige!"
-    npcb "想象一下，这是一个获得伟大和声望的机会！"
+    npcb "把这看作是一个获得伟大和声望的机会！"
 
 # game/Chapter01.rpy:370
 translate chinese nameA_22cd5bdd:
 
     # npcb "Should you succeed in taking down the pride of the coliseum himself, then there is nothing left to fear!"
-    npcb "如果你成功地打败了角斗场的骄傲本人，那么就没有什么可害怕的了！"
+    npcb "如果你成功击败角斗场的骄傲本身，那么就没有什么可害怕的了！"
 
 # game/Chapter01.rpy:371
 translate chinese nameA_e9a3c535:
 
     # "The knight looked back at Ramos, and you could see the fear in his eyes."
-    "骑士回过头来看着拉莫斯，你可以看到他眼中的恐惧。"
+    "骑士回过头看着拉莫斯，你可以看到他眼中的恐惧。"
 
 # game/Chapter01.rpy:372
 translate chinese nameA_f0240901:
 
     # npcc "V-very well. {w=0.5}He is but a beast after all, and I shall tame him as such!"
-    npcc "好-好吧。{w=0.5}毕竟他只是一只野兽，我会像驯服野兽一样征服他！"
+    npcc "好-好吧。{w=0.5}他只不过是一头野兽，我将如此驯服他！"
 
 # game/Chapter01.rpy:373
 translate chinese nameA_ec479c9f:
 
     # "The knight slammed down his face guard, unsheathed his sword and stood at the ready."
-    "骑士猛地放下他的面甲，抽出剑来，准备好了。"
+    "骑士猛地将面具压下，拔出剑，准备就绪。"
 
 # game/Chapter01.rpy:374
 translate chinese nameA_f79da299:
@@ -538,103 +538,103 @@ translate chinese nameA_f7d25a4f:
 translate chinese nameA_3c2b2fc9:
 
     # "Blow after blow, the two knights could only focus on defence as they were smacked to the ground mercilessly by Ramos."
-    "两名骑士一个接一个地受到了拉莫斯的无情攻击，只能集中精力进行防御，被狠狠地摔倒在地。"
+    "一招接一招，两位骑士只能集中精力防守，无情地被拉莫斯击打到地面上。"
 
 # game/Chapter01.rpy:382
 translate chinese nameA_f919130e:
 
     # "They were more akin to flies than fighters as they scurried around the battlefield, avoiding being knocked out by the enormous beastman."
-    "他们更像是苍蝇而不是战士，在战场上四处躲闪，避免被这只巨大的兽人击倒。"
+    "他们更像是苍蝇而不是战士，在战场上四处乱窜，试图避免被这个庞大的野兽击倒。"
 
 # game/Chapter01.rpy:383
 translate chinese nameA_2e5b82c5:
 
     # "As much as you wanted to focus on the fight, you still had to keep one eye on the knights who still hadn't given up on their search."
-    "尽管你想专注于战斗，但你仍然不得不留意那些仍未放弃寻找的骑士。"
+    "尽管你很想专注于战斗，但你仍然不得不将一只眼睛放在那些仍然没有放弃搜索的骑士身上。"
 
 # game/Chapter01.rpy:384
 translate chinese nameA_0f56164e:
 
     # "Some woman had even gotten out of her seat and was smacking one of the knights away with her shoe for tearing apart her shawl."
-    "甚至有一些女士站起来，用她的鞋子把其中一名骑士赶走，因为他撕坏了她的披肩。"
+    "甚至有个女人站了起来，用她的鞋子打击其中一名骑士，因为他撕破了她的披肩。"
 
 # game/Chapter01.rpy:385
 translate chinese nameA_a6c9efaf:
 
     # npcb "Oooooh and that has got to hurt! {w=0.5}I'm afraid Sir Magnes the White is going to be {i}\"Sir Magnes the Black and Blue\"{/i} in the morning!"
-    npcb "哦~好痛啊！{w=0.5}我敬爱的Sir Magnes the White（白色磁石爵士）明天早上恐怕要变成 {i}\ "Sir Magnes the Black and Blue"（青紫色磁石爵士）{/i}了！"
+    npcb "哦，那一定很痛！{w=0.5} 恐怕明天，{i}\白衣骑士马格努斯爵士会变成“黑与蓝的马格努斯爵士\”{/i}！"
 
 # game/Chapter01.rpy:386
 translate chinese nameA_a450edec:
 
     # "The dust was already settling as you turned your attention back on the fight below. It appeared that the heavyset beastman had finally caught that shining knight."
-    "当你再次将目光投向下方的战斗时，尘埃已经开始落定。看起来那个身材魁梧的兽人终于抓住了那位金光闪闪的骑士。"
+    "当你将注意力重新转向下方的战斗时，尘埃已经开始落定。看起来这个身材魁梧的野兽终于抓住了那个闪亮的骑士。"
 
 # game/Chapter01.rpy:388
 translate chinese nameA_ed58c2a5:
 
     # "Magnus was lying face down with Ramos's entire body pressed atop of him, pinning him to the ground."
-    "Magnus（马格努斯）脸朝下躺在地上，Ramos（拉莫斯）的整个身体压在他身上，将他压在地上。"
+    "马格努斯躺在地上，面朝下，拉莫斯的整个身体压在他身上，将他钉在地面上。"
 
 # game/Chapter01.rpy:389
 translate chinese nameA_fa42f14a:
 
     # "His once shiny armor was heavily dented, marked up with scratches, and covered in dirt."
-    "他曾经闪闪发光的盔甲现在却被严重凹陷，划痕累累，覆盖着灰尘。"
+    "他曾经光亮的盔甲现在凹陷严重，被划痕覆盖，沾满了泥土。"
 
 # game/Chapter01.rpy:390
 translate chinese nameA_3459526a:
 
     # npcb "He may be big but don't let his size fool you. {w=0.5}Let this be a lesson to never turn your back to a charging rhino!"
-    npcb "他可能很大，但不要被他的体型愚弄了。{w=0.5}这就是一个教训，永远不要把背对着奔跑的犀牛！"
+    npcb "他可能体型庞大，但不要被他的大小所迷惑。{w=0.5} 让这成为一个教训，永远不要背对冲锋而来的犀牛！"
 
 # game/Chapter01.rpy:391
 translate chinese nameA_d8dd578f:
 
     # "Ramos had the strength of a thousand men, was as tall as a great oak, and as wide as the Great Wall, or so the rumors went."
-    "据传言，Ramos（拉莫斯）有着千人之力，身高如巨橡树，宽度堪比长城。"
+    "据传闻，拉莫斯拥有千人之力，身高如同巨大的橡树，宽度堪比长城。"
 
 # game/Chapter01.rpy:392
 translate chinese nameA_8d822eae:
 
     # "But even if they were all just spun myths, beastman were not beings to be trifled with, especially one of Ramos's size and stature."
-    "即使这些都只是虚构的神话传说，也不能小看兽人，特别是像Ramos这样巨大的兽人。他们不是好惹的存在。"
+    "然而，即使这些都只是虚构的传说，兽人也不容小觑，尤其是像拉莫斯这样身材庞大的存在。"
 
 # game/Chapter01.rpy:393
 translate chinese nameA_9264a9dd:
 
     # "The audience waited to see if Magnus could escape from such a fate but when he showed no signs of movement it was clear this was all over for him."
-    "观众们等待着看看Magnus（马格努斯）是否能够逃脱这样的厄运，但当他没有任何动静时，很明显这一切都已经结束了。"
+    "观众们等待着看马格努斯是否能够摆脱这样的命运，但当他没有任何动作迹象时，很明显这对他来说已经结束了。"
 
 # game/Chapter01.rpy:398
 translate chinese nameA_ec839699:
 
     # "His zealous fans wailed in distress with makeup mudding their faces over the fall of their handsome and noble knight."
-    "他那些狂热的粉丝哀嚎着，面上的化妆品被泥水沾染，因为他们心爱的英俊而高贵的骑士已经倒下了。"
+    "他那些热情洋溢的粉丝们悲痛地哀嚎着，他们的脸上涂满了化妆品，因为他们心目中英俊而高贵的骑士倒下了。"
 
 # game/Chapter01.rpy:399
 translate chinese nameA_a8fc86bb:
 
     # "They spat in disgust and called the rhino a cheater among other colorful insults geared towards beastmen."
-    "他们厌恶地吐口水，并称犀牛为骗子，还对兽人进行了其他色彩缤纷的侮辱。"
+    "他们厌恶地吐着口水，咒骂着那头犀牛是个骗子，还用各种富有色彩的侮辱性言辞诋毁着兽人。"
 
 # game/Chapter01.rpy:400
 translate chinese nameA_dec97434:
 
     # "You simply smiled. It was always a joy to see some stuck up nobles getting knocked down a few pegs, especially those from House Praine who had a well known history of hating beastmen."
-    "你只是微笑着。看到一些傲慢自大的贵族被打击，特别是那些来自普莱恩家族，他们有着公开的排斥兽人的历史，总是令人愉悦的。"
+    "你只是微笑着。看到一些傲慢的贵族受到打击，尤其是那些来自普雷恩家族的人，他们以憎恶兽人而闻名，这总是一种快乐。"
 
 # game/Chapter01.rpy:403
 translate chinese nameA_378b5009:
 
     # npcb "Oh, but would you look at that! This fight isn't over yet!"
-    npcb "哦，你看那个！这场战斗还没有结束！"
+    npcb "哦，你看看！这场战斗还没有结束！"
 
 # game/Chapter01.rpy:404
 translate chinese nameA_49091ca7:
 
     # "The other gladiator saw this as the perfect chance to strike. While the rhino was still hunched over the fallen Magnes, he charged forward and leapt into the air with both blades poised."
-    "另一名角斗士看到这是一个完美的机会。当犀牛还在弯腰俯身看着倒下的Magnes（马格努斯）时，他向前冲了过去，双刀准备好了，跃入空中。"
+    "另一位角斗士视此为绝佳的机会发起攻击。当犀牛还在低头看着倒下的马格努斯时，他迅速冲向前方，双刀准备好，跃身而起。"
 
 # game/Chapter01.rpy:406
 translate chinese nameA_7880ae62:
@@ -646,7 +646,7 @@ translate chinese nameA_7880ae62:
 translate chinese nameA_4136e510:
 
     # "You wanted to cover your eyes but you saw a sly grin spread across the beastman's face."
-    "你本想遮住眼睛，但你看到兽人脸上浮现出狡猾的笑容。"
+    "你本想捂住眼睛，但却看到兽人脸上浮现出一丝狡黠的笑容。"
 
 # game/Chapter01.rpy:412
 translate chinese nameA_867fef72:
@@ -658,37 +658,37 @@ translate chinese nameA_867fef72:
 translate chinese nameA_bb471157:
 
     # "Ramos shot out his leg and with a well timed kick from behind threw his assailant off balance. The blades narrowly grazed the rhino as he whipped around and finished his opponent off with a solid punch to the gut."
-    "拉莫斯一脚踢出，巧妙地从身后击倒了袭击者。刀刃擦过犀牛的身体，他转身用有力的一拳狠狠地打在对手的胃部，结束了这场战斗。"
+    "拉莫斯伸出腿，巧妙地从背后踢击，使他的袭击者失去平衡。刀刃只擦过犀牛的身体，他迅速转身，并以有力的一拳命中对手的腹部，将其彻底击败。"
 
 # game/Chapter01.rpy:416
 translate chinese nameA_9eb08c40:
 
     # "Arborn went sliding backwards, before tripping over his feet and rolling into the dirt to a stop."
-    ""
+    "阿伯恩向后滑行，然后绊倒在自己的脚下，打滚着停在泥土上。"
 
 # game/Chapter01.rpy:417
 translate chinese nameA_eac59a06:
 
     # "When the dust had settled he was clutching his stomach, coughing, and groaning in terrible agony."
-    ""
+    "当尘埃落定后，他捂着肚子，咳嗽着，痛苦地呻吟着。"
 
 # game/Chapter01.rpy:418
 translate chinese nameA_7d2ff30f:
 
     # npcb "What a blow from Ramos! {w=0.5}One hit and he's down!"
-    npcb ""
+    npcb "拉莫斯的一击真是太厉害了！{w=0.5} 一拳就让他倒下了！"
 
 # game/Chapter01.rpy:419
 translate chinese nameA_30baf2a1:
 
     # "Ramos cracked his head left to right and then strutted forth to the fallen gladiator, kicking aside the blades in his wake."
-    ""
+    "拉莫斯摇了摇头，然后昂首阔步走向倒下的角斗士，踢开路上的刀刃。"
 
 # game/Chapter01.rpy:420
 translate chinese nameA_7f809cab:
 
     # npcb "Is this it for Arborn!? {w=0.5}Will he get up!?"
-    npcb ""
+    npcb "阿伯恩就这样了吗？{w=0.5} 他会站起来吗？"
 
 # game/Chapter01.rpy:421
 translate chinese nameA_7e14fcc2:
@@ -700,271 +700,271 @@ translate chinese nameA_7e14fcc2:
 translate chinese nameA_0ca218f8:
 
     # "The gladiator tried to get back up but after that last punch it was easy to see that he was nearly ready to pass out."
-    ""
+    "角斗士试图站起来，但在那最后一拳之后，很容易看出他已经快要晕倒了。"
 
 # game/Chapter01.rpy:423
 translate chinese nameA_6d4879db:
 
     # "He started to crawl away as Ramos approached and the crowd's cheers grew into bitter shouts. They wanted more of a spectacle than the one shown and frankly you had to agree."
-    ""
+    "当拉莫斯走近时，他开始爬行离开，观众的欢呼声变成了愤怒的喊叫声。他们想要看到更壮观的表演，坦白说，你也同意这一点。"
 
 # game/Chapter01.rpy:424
 translate chinese nameA_e2524092:
 
     # "But it was clear to see that this fight was over."
-    ""
+    "然而，很明显这场战斗已经结束了。"
 
 # game/Chapter01.rpy:425
 translate chinese nameA_db5c73c2:
 
     # "Just as Ramos was about to begin the fight anew the man removed one hand from his abdomen and slowly raised it above his head."
-    ""
+    "就在拉莫斯准备重新开始战斗的时候，那个人从腹部抬起一只手，缓慢地举过头顶。"
 
 # game/Chapter01.rpy:426
 translate chinese nameA_977477b9:
 
     # npcb "That's it! Arborn has had enough folks!"
-    npcb ""
+    npcb "就是这样！阿伯恩已经受够了，各位！"
 
 # game/Chapter01.rpy:427
 translate chinese nameA_84287f4b:
 
     # "Ramos scoffed and spat to the side in annoyance before turning to the crowd and raising his arms in a triumphant roar."
-    ""
+    "拉莫斯不屑地嗤笑着，恼怒地朝一侧吐了口口水，然后转向观众，高举双臂，发出胜利的咆哮。"
 
 # game/Chapter01.rpy:431
 translate chinese nameA_9b91fbe8:
 
     # "Despite the lackluster fight, the crowd still went wild with excitement."
-    ""
+    "尽管战斗平淡无奇，观众们仍然兴奋异常，热情高涨。"
 
 # game/Chapter01.rpy:435
 translate chinese nameA_c3e86448:
 
     # npcd "Always the blowhard I see."
-    npcd ""
+    npcd "我看你总是爱吹牛皮。"
 
 # game/Chapter01.rpy:436
 translate chinese nameA_1144be0e:
 
     # "The bench groaned as the man beside you shifted in his seat. His gruff apathetic voice took you a bit by surprise as you first thought that the seat he was in was empty."
-    ""
+    "当你旁边的那个人在座位上移动时，长凳发出嘎吱作响的声音。他沙哑而冷漠的声音让你有些惊讶，因为起初你以为他坐的座位是空的。"
 
 # game/Chapter01.rpy:437
 translate chinese nameA_a8799aac:
 
     # "Though you didn't turn your head, he appeared to be a very large man, with armor that rattled as he moved and tufts of fur protruding out between the cracks, hinting that he could be a beastman."
-    ""
+    "尽管你没有转过头去，但他似乎是一个非常高大的男人，身穿的盔甲在他行动时发出咔嚓声，毛发从裂缝间伸出，暗示他可能是一个兽人。"
 
 # game/Chapter01.rpy:439
 translate chinese nameA_f730f71c:
 
     # "Out of the corner of your eye, he appeared to be quite muscular with biceps easily the size of your thighs."
-    ""
+    "你用余光瞥见他，他的肌肉似乎非常发达，双臂的粗壮程度足以与你的大腿相媲美。"
 
 # game/Chapter01.rpy:440
 translate chinese nameA_4b697e46:
 
     # "A long slender tail flickered near his feet, occasionally brushing against your legs, confirming to you that he was a beastman."
-    ""
+    "他脚边不断晃动着一条修长的尾巴，偶尔掠过你的腿部，证实了他是一位兽人。"
 
 # game/Chapter01.rpy:441
 translate chinese nameA_d051b3f8:
 
     # "Someone like him though filling the seat should have alerted you, but then again, your attention was already pulled thin between the fights, the roaring crowd, and those meddlesome knights sniffing around."
-    ""
+    "虽然像他这样占据了座位的人本应引起你的警觉，但毕竟你的注意力已经被战斗、喧闹的观众和那些烦人的骑士四处嗅探分散得很薄弱。"
 
 # game/Chapter01.rpy:443
 translate chinese nameA_a64de024:
 
     # "Speaking of those knights though, the hairs on the back of your neck rose on end as you locked eyes with one of them."
-    ""
+    "说到那些骑士，当你与其中一人对视时，你的脖子后背的毛发竖了起来。"
 
 # game/Chapter01.rpy:444
 translate chinese nameA_a9865e98:
 
     # "You were ready to flee, but rather than continuing his approach, he instead stopped and stared for several moments before turning to leave the stadium. As he left, he took the other knights with him."
-    ""
+    "你准备逃离，但他没有继续靠近，而是停下来凝视了几个瞬间，然后转身离开了体育场。离开时，他带走了其他骑士。"
 
 # game/Chapter01.rpy:446
 translate chinese nameA_d0b59491:
 
     # "It almost appeared as though they recognized you. . . but why would they suddenly just leave?"
-    ""
+    "他们似乎认出了你……但为什么他们突然离开呢？"
 
 # game/Chapter01.rpy:447
 translate chinese nameA_8dae559f:
 
     # "You couldn't imagine father giving them the order to just find you and not carry you back home kicking and screaming."
-    ""
+    "难以想象父亲会下令他们只是找到你，而不是把你带回家."
 
 # game/Chapter01.rpy:448
 translate chinese nameA_1eb9e768:
 
     # "Perhaps they were searching for someone else entirely? Still, it was strange."
-    ""
+    "也许他们完全是在搜寻另一个人？不过，这确实很奇怪。"
 
 # game/Chapter01.rpy:449
 translate chinese nameA_19b2df0f:
 
     # npcd "You know, too much bravado can lead to your downfall."
-    npcd ""
+    npcd "你知道，过多的傲慢会导致你的失败。"
 
 # game/Chapter01.rpy:450
 translate chinese nameA_c90675bd:
 
     # you "Huh?"
-    you ""
+    you "哈？"
 
 # game/Chapter01.rpy:451
 translate chinese nameA_6e9b6a23:
 
     # "It appeared that the man to your left was talking about the crude display Ramos was presenting from below."
-    ""
+    "似乎坐在你左边的那个人在谈论拉莫斯从下方展现出来的粗俗举止。"
 
 # game/Chapter01.rpy:452
 translate chinese nameA_ca340820:
 
     # "With Magnes's helmet in hand, he pretended to slam it against his groin multiple times in a perverse way."
-    ""
+    "他手里拿着马格努斯的头盔，以一种变态的方式假装多次猛烈地撞击自己的下体。"
 
 # game/Chapter01.rpy:453
 translate chinese nameA_d1bb0cd0:
 
     # "You couldn't help chuckling though."
-    ""
+    "然而，你还是情不自禁地笑了起来。"
 
 # game/Chapter01.rpy:454
 translate chinese nameA_153ecf4c:
 
     # you "A little bit of pride never hurt anyone."
-    you ""
+    you "适度的自豪感从未伤害过任何人。"
 
 # game/Chapter01.rpy:455
 translate chinese nameA_0684bfd7:
 
     # npcd "Hmm I suppose you might be right about that."
-    npcd ""
+    npcd "嗯，我想你或许在这方面是对的。"
 
 # game/Chapter01.rpy:456
 translate chinese nameA_75653594:
 
     # npcd "Still, that's quite a barbaric display, even for him."
-    npcd ""
+    npcd "不过，即便对他来说，那种野蛮的表现也相当过分。"
 
 # game/Chapter01.rpy:457
 translate chinese nameA_5725d26c:
 
     # "When the rhino was finished with his boasting, he tossed the helmet aside and strode off the grounds."
-    ""
+    "当那头犀牛结束吹嘘后，他把头盔随手丢在一边，然后大步离开了场地。"
 
 # game/Chapter01.rpy:458
 translate chinese nameA_23ad9bad:
 
     # npcd "Well then, I take it you've had your fill of action?"
-    npcd ""
+    npcd "那么，我猜你已经满足于这场戏剧了吗？"
 
 # game/Chapter01.rpy:459
 translate chinese nameA_a577ad0e:
 
     # you "What?"
-    you ""
+    you "什么？"
 
 # game/Chapter01.rpy:460
 translate chinese nameA_b50721ba:
 
     # npcd "Still haven't recognized me? {w=0.5}Suppose all this commotion does tend to dull the senses."
-    npcd ""
+    npcd "难道你还没有认出我吗？{w=0.5}或许所有这些骚动确实会让感知变得迟钝。"
 
 # game/Chapter01.rpy:461
 translate chinese nameA_19d2e310:
 
     # npcd "What I'm saying is that it's time to come home now "
-    npcd ""
+    npcd "我的意思是现在是时候回家了。"
 
 # game/Chapter01.rpy:466
 translate chinese nameA_7e9d0a98:
 
     # extend "{cps=15}Prince [you]."
-    extend ""
+    extend "{cps=15}王子 [you]"
 
 # game/Chapter01.rpy:470
 translate chinese nameA_36bbbc2b:
 
     # "Your heart plummeted to your feet as the man whispered those last two words into your ear." with vpunch
-    "" with vpunch
+    "当那个人在你耳边低声说出那最后两个字时，你的心猛然沉入了脚底。" with vpunch
 
 # game/Chapter01.rpy:471
 translate chinese nameA_af88b5b6:
 
     # "Who was this man and how did the man know your name? Better yet, why did he make the assumption that you were a prince?"
-    ""
+    "这个人是谁，他怎么知道你的名字？更重要的是，他为什么知道你是王子呢？"
 
 # game/Chapter01.rpy:472
 translate chinese nameA_f8470855:
 
     # "No, that was a stupid question."
-    ""
+    "不，这是一个愚蠢的问题。"
 
 # game/Chapter01.rpy:473
 translate chinese nameA_944c03ba:
 
     # "You just now recognized this beastman's voice and had an idea who it was sitting next to you all this time, but refused to acknowledge it."
-    ""
+    "你刚才才辨认出了这位兽人的声音，同时也开始猜测坐在你身旁的这个人是谁，尽管内心有所察觉，却选择不予承认。"
 
 # game/Chapter01.rpy:474
 translate chinese nameA_24c54bfd:
 
     # "Still, you had to face the music, so you slowly turned your head to properly, and woefully, greet your neighbor."
-    ""
+    "尽管如此，你不得不面对现实，慢慢地转过头来，以适当而悲哀的方式向你的旁边的那位致以问候。"
 
 # game/Chapter01.rpy:478
 translate chinese nameA_ddf3bafb:
 
     # you ". . . {w=0.5}Shit."
-    you ""
+    you "...{w=0.5} 妈的"
 
 # game/Chapter01.rpy:482
 translate chinese nameA_bdbfa3ab:
 
     # "You were about to high tail it out of your seat, but the beastman pushed you right back down." with vpunch
-    "" with vpunch
+    "你正打算从座位上飞速离开，但兽人却把你强行按回座位。" with vpunch
 
 # game/Chapter01.rpy:486
 translate chinese nameA_ffc3f518:
 
     # l "Sit down. {w=0.5}You're not going anywhere else without my permission."
-    l ""
+    l "请坐下。{w=0.5}没有我的允许，你不能离开这里。"
 
 # game/Chapter01.rpy:487
 translate chinese nameA_dacddf23:
 
     # "His muscles tensed as he gently dug into your arm holding you firmly in place. You weren't getting away anytime soon."
-    ""
+    "他的肌肉绷紧，他轻轻地抓住你的胳膊，紧紧地固定住你，让你无法轻易逃脱。你暂时无法离开他的掌控范围。"
 
 # game/Chapter01.rpy:488
 translate chinese nameA_18400932:
 
     # l "Thought you could leave the castle and not get caught did you? {w=0.5}I think it's safe to say you're in a lot of trouble when we get back home."
-    l ""
+    l "你以为可以离开城堡而不被发现吗？我想可以肯定地说，当我们回到家之后，你将面临很大的麻烦。"
 
 # game/Chapter01.rpy:489
 translate chinese nameA_4629f417:
 
     # you "You're always siding with father."
-    you ""
+    you "你总是站在父亲那一边。"
 
 # game/Chapter01.rpy:490
 translate chinese nameA_c1168925:
 
     # you "I thought you were supposed to look out and cover for me? {w=0.5}Isn't that what an older brother is supposed to do?"
-    you ""
+    you "我原以为你应该照顾和保护我，难道这不是一个哥哥应该做的吗？"
 
 # game/Chapter01.rpy:491
 translate chinese nameA_f8918fb8:
 
     # l "I'm your kingsguard, not your scapegoat. {w=0.5}And you know that I'm not your real brother."
-    l ""
+    l "我是你的国王卫队，而不是你的替罪羊。而且你也知道我并不是你真正的兄弟。"
 
 # game/Chapter01.rpy:492
 translate chinese nameA_edcedbdf:

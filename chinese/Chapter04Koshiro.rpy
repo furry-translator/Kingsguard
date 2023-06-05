@@ -94,7 +94,7 @@ translate chinese Chapter04Koshiro_9b6f6997:
 translate chinese Chapter04Koshiro_3899819a:
 
     # "You braced yourself on the wall."
-    ""
+    "."
 
 # game/Chapter04Koshiro.rpy:57
 translate chinese Chapter04Koshiro_80079cc4:
